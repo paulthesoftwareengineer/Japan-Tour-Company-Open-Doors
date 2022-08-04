@@ -28,7 +28,7 @@
 <h3 align="center">Open Doors</h3>
 
   <p align="center">
-    The first of many prototype projects, Open Doors is a simple image tracking project to demonstrate the process and value of monthly projects. 
+    The world is a big place and spatial computing is a big space. Spatial computing has the potential to open doors in ways that we were once closed. Welcome to the possibilities. 
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
