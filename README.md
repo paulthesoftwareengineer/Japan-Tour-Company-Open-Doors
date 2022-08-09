@@ -5,8 +5,8 @@
 *** At the bottom of this document for the declaration of the reference variables
 *** for contributors-url, forks-url, etc. 
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![MIT License][license-shield]][license-url]
+
+[![MIT License][license-shield]][[(https://mit-license.org/)]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
