@@ -6,7 +6,7 @@
 *** for contributors-url, forks-url, etc. 
 -->
 
-[![MIT License][license-shield]][[https://mit-license.org]
+[![MIT License][license-shield]][[https://mit-license.org]]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
