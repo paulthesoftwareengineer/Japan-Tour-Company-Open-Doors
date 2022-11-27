@@ -24,7 +24,7 @@
 <h3 align="center">Open Doors</h3>
 
   <p align="center">
-    The world is a big place and spatial computing is a big space. Spatial computing has the potential to open doors in ways that we were once closed. I would like to create more projects that help open spatial computing opportunities within the United States for Japan. Welcome to the possibilities. 
+    Japan Tour Company is feverishly working to create a spatial engineering tool, preferably with AR and VR, to additional value to their customers' experience.  
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
